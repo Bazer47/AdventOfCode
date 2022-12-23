@@ -1,3 +1,7 @@
-# Gym
+# Advent of Code 2022
 
-A repository for coding practice.
+Solutions for [Advent of Code 2022](https://adventofcode.com/) in Python.
+
+## Requirements
+
+- Python 3.8
