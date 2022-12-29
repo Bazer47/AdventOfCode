@@ -221,3 +221,7 @@ $RECYCLE.BIN/
 # vscode
 .vscode
 
+# Linting setup
+.flake8.ini
+.mypy.ini
+
