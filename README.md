@@ -6,7 +6,7 @@ The project contains solutions for [Advent of Code](https://adventofcode.com/) p
 
 | **Year** | **Python** |
 |----------|------------|
-| 2022     | 1-11       |
+| 2022     | 1-13       |
 
 ## Requirements
 
