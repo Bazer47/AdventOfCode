@@ -4,11 +4,14 @@ The project contains solutions for [Advent of Code](https://adventofcode.com/) p
 
 ## Current Status
 
-| **Year** | **Python** |
-|----------|------------|
-| 2022     | 1-14       |
+| **Year** | **Python** | **Typescript** |
+|----------|------------|----------------|
+| 2022     | 1-14       | 0              |
+| 2023     | 0          | 0              |
 
 ## Requirements
 
 ### Python
 - Python 3.8
+
+### Typescript
